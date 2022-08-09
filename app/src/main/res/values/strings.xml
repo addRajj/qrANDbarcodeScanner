@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR &amp; Bar Code Scanner</string>
+    <string name="scanned_statement">[scanned statement]</string>
+    <string name="copy_text">COPY TEXT</string>
+</resources>
